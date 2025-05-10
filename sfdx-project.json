@@ -1,0 +1,19 @@
+{
+  "packageDirectories": [
+    {
+      "versionName": "ver 0.1",
+      "versionNumber": "0.1.0.NEXT",
+      "path": "convenient-components",
+      "default": true,
+      "package": "Convenient Components",
+      "versionDescription": ""
+    }
+  ],
+  "name": "convenient-components-library",
+  "namespace": "convenient",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "63.0",
+  "packageAliases": {
+    "Convenient Components": "0Hod100000001TxCAI"
+  }
+}
